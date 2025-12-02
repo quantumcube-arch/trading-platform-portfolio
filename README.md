@@ -111,6 +111,14 @@ I am a senior C++ and trading systems developer with over 30 years of experience
 10+ of which focused on algorithmic trading, real-time systems, data pipelines, 
 platform architecture and multi-machine infrastructure.
 
+---
+
+## 🛠️ Proven Work & Client Feedback
+
+I also maintain an active profile on Freelancer with 30+ 5-star reviews for trading systems, real-time data feed integration, and platform development — a solid proof of reliability and delivery quality.  
+👉 [My Freelancer profile & reviews](https://www.freelancer.com/u/quantumcube)
+
+
 Looking for senior C++/trading systems roles, remote or contract.
 
 
